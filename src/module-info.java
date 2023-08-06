@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sergei
+ *
+ */
+module AntsOnPlank {
+}
